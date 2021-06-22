@@ -5,8 +5,11 @@ The overall goal was to run an analysis on the school districts math and reading
 ### Results
 *How is the district summary affected?
  *Pictured below is the final district summary after updating NaN values from challenge. 
+ 
   *Overall passing percentage for Thomas High School dropped to 65%
-  *Overall passing percentage for the entire district dropped to 64.9%
+ 
+ *Overall passing percentage for the entire district dropped to 64.9%
+ 
  *![alt text](https://github.com/amarks5/School_District_Analysis/blob/main/Resources/district_summary.PNG)
  
 *How is the school summary affected?
