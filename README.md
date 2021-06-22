@@ -5,9 +5,9 @@ The overall goal was to run an analysis on the school districts math and reading
 ### Results
 *How is the district summary affected?
 * ![alt text](https://github.com/amarks5/School_District_Analysis/blob/main/Resources/district_summary.PNG)
-Pictured above is the final district summary after updating NaN values from challenge. 
-**Overall passing percentage for Thomas High School dropped to 65%
-**Overall passing percentage for the entire district dropped to 64.9%
+*Pictured above is the final district summary after updating NaN values from challenge. 
+*Overall passing percentage for Thomas High School dropped to 65%
+*Overall passing percentage for the entire district dropped to 64.9%
 
 *How is the school summary affected?
 **The average math and reading scores for Thomas High School increased
