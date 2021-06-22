@@ -3,7 +3,8 @@
 ## Overview of school district analysis
 The overall goal was to run an analysis on the school districts math and reading scores. After our first analysis of the data the district noticed the standardized test scores for ninth graders at Thomas High School were inaccurate. In order to fix this, We were asked to replace scores at Thomas High School with NaN's to hopefully cut back on inaccurate readings of the data. The overall purpose of running this analysis was to look at student scores, school spending and budgeting of schools. Overall, the data was not affected significantly due to the low number of NaN's needing to be replaced.
 ### Results
-*How is the district summary affected?
+#### How is the district summary affected?
+ 
  *Pictured below is the final district summary after updating NaN values from challenge. 
  
   *Overall passing percentage for Thomas High School dropped to 65%
