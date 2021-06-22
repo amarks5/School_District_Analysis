@@ -13,12 +13,17 @@ The overall goal was to run an analysis on the school districts math and reading
  
  *![alt text](https://github.com/amarks5/School_District_Analysis/blob/main/Resources/district_summary.PNG)
  
-*How is the school summary affected?
+#### How is the school summary affected?
+
   *The average math and reading scores for Thomas High School increased
+
   *The overall passing percentage for Thomas High School decreased
+  
   *Thomas High School remained second best performing school in the district
 
-*How does replacing ninth graders; math and reading scores affect Thomas High School's performance relative to the other schools?
+#### How does replacing ninth graders; math and reading scores affect Thomas High School's performance relative to the other schools?
+
+  *Replacing the math and reading scores with NaN's really doesn't affect their overall performance. Overall Thomas High School is still ranked second amongst all the high schools based on their performance.
 
 *How does replacing the ninth-grade scores affect the following:
  *Math and reading scores by grade
