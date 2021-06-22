@@ -5,9 +5,14 @@ The overall goal was to run an analysis on the school districts math and reading
 ### Results
 *How is the district summary affected?
 * ![alt text]()
-Pictured above is the final district summary after updating NaN values from challenge. When comparing the district summary to the prior summary there really isn't too much of a difference. The average math score dropped one hundredth of a point, average reading scores remained the same, both the passing math percentage and passing reading percentage dropped 1% as well as the overall passing percentage.
+Pictured above is the final district summary after updating NaN values from challenge. 
+**Overall passing percentage for Thomas High School dropped to 65%
+**Overall passing percentage for the entire district dropped to 64.9%
 
 *How is the school summary affected?
+**The average math and reading scores for Thomas High School increased
+**The overall passing percentage for Thomas High School decreased
+**Thomas High School remained second best performing school in the district
 
 *How does replacing ninth graders; math and reading scores affect Thomas High School's performance relative to the other schools?
 
