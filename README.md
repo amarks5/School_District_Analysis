@@ -25,10 +25,10 @@ The overall goal was to run an analysis on the school districts math and reading
 
   *Replacing the math and reading scores with NaN's really doesn't affect their overall performance. Overall Thomas High School is still ranked second amongst all the high schools based on their performance.
 
-*How does replacing the ninth-grade scores affect the following:
- *Math and reading scores by grade
- *Scores by school spending
- *Scores by school size
- *Scores by school type
+#### How does replacing the ninth-grade scores affect the following:
+ #### Math and reading scores by grade
+ #### Scores by school spending
+ #### Scores by school size
+ #### Scores by school type
 
 ## Summary
